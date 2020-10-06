@@ -18,3 +18,4 @@ You are currently on the homepage, this will help you find all the notes and inf
 |COMPUTER WORK | [COMPUTER WORK](https://hanaaghazzi.github.io/reading-notes/read06b) |
 | COLOR | [COLOR](https://hanaaghazzi.github.io/reading-notes/color) |
 | Summary | [html&js](https://hanaaghazzi.github.io/reading-notes/class01) |
+| Read03 | [read03](https://hanaaghazzi.github.io/201reading-notes/read03)  |
