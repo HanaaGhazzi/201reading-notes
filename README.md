@@ -26,3 +26,4 @@ You are currently on the homepage, this will help you find all the notes and inf
 | Read08 | [read08](https://hanaaghazzi.github.io/201reading-notes/read08)|
 | Read09 | [read09](https://hanaaghazzi.github.io/201reading-notes/read09) |
 | Read10 | [read10](https://hanaaghazzi.github.io/201reading-notes/read10 ) |
+| Read11 | [read11](https://hanaaghazzi.github.io/201reading-notes/read11)  |
