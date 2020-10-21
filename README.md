@@ -30,3 +30,4 @@ You are currently on the homepage, this will help you find all the notes and inf
 | Read12 | [read12](https://hanaaghazzi.github.io/201reading-notes/read12) |
 | Read13 | [read13](https://hanaaghazzi.github.io/201reading-notes/read13) | 
 | Read14a | [read14a](https://hanaaghazzi.github.io/201reading-notes/read14a) |
+| Read14b | [read14a](https://hanaaghazzi.github.io/201reading-notes/read14b) |
